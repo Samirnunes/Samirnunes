@@ -1,9 +1,9 @@
 ## Hello, my name's Samir!
 ### Welcome to my GitHub profile 👋
 
-- 🎯 Currently, I'm looking for summer internship's focused on data analysis, consulting and/or programming.
-- 🔭 I’m studying engineering at ITA (Aeronautics Institute of Tecnology) and working on consulting and data analysis projects at ITA Júnior (it's ITA's junior enterprise).
-- 👨🏽‍💻 I’m learning Programming (Python, Matlab and C++ languages), Microsoft Power BI, Data Science, Statistics and many disciplines at university which involves Math (calculus, for example), Physics and Computer Science.
+- 🎯 Atualmente, estou em busca de um estágio de verão (Summer Job) focado em análise de dados.
+- 🔭 Estudo Engenharia de Computação no ITA (Instituto Tecnológico de Aeronáutica) e sou Diretor de Dados no CASD (Curso Alberto Santos Dumont).
+- 👨🏽‍💻 Meu foco é aprender programação (linguagens Python, R, C++ e Matlab), ferramentas de análise e exposição de dados, como o Microsoft Power BI, Ciência de Dados, Ciência da Computação e Estatística.
 
 ### Tools and Technologies
 
