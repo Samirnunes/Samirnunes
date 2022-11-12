@@ -1,11 +1,11 @@
-## Hello, my name's Samir!
-### Welcome to my GitHub profile 👋
+## Olá, meu nome é Samir!
+### Bem-vindo ao meu perfil do GitHub! 👋
 
 - 🎯 Atualmente, estou em busca de um estágio de verão (Summer Job) focado em análise de dados.
 - 🔭 Estudo Engenharia de Computação no ITA (Instituto Tecnológico de Aeronáutica) e sou Diretor de Dados no CASD (Curso Alberto Santos Dumont).
 - 👨🏽‍💻 Meu foco é aprender programação (linguagens Python, R, C++ e Matlab), ferramentas de análise e exposição de dados, como o Microsoft Power BI, Ciência de Dados, Ciência da Computação e Estatística.
 
-### Tools and Technologies
+### Ferramentas e Tecnologias
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -13,7 +13,7 @@
 
 <div>
 
-### Contact
+### Contato
 
 <div>
 <a href = "mailto:samir.silva12342@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
