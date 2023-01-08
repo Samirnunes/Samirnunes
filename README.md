@@ -1,9 +1,9 @@
 ## Olá, meu nome é Samir!
 ### Bem-vindo ao meu perfil do GitHub! 👋
 
-- 🎯 Atualmente, estou em busca de um estágio de verão (Summer Job) focado em análise de dados.
+- 🎯 Atualmente, estou em busca de um estágio de verão (Summer Job) focado em Machine Learning.
 - 🔭 Estudo Engenharia de Computação no ITA (Instituto Tecnológico de Aeronáutica) e sou Diretor de Dados no CASD (Curso Alberto Santos Dumont).
-- 👨🏽‍💻 Meu foco é aprender programação (linguagens Python, R, C++ e Matlab), ferramentas de análise e exposição de dados, como o Microsoft Power BI, Ciência de Dados, Ciência da Computação e Estatística.
+- 👨🏽‍💻 Meu objetivo é aprender e me aprofundar em principalmente em Machine Learning, Ciência de Dados e Estatística, e também em Programação (linguagens Python, R, C++, Matlab, etc) e em Análise Exploratória de Dados.
 
 ### Ferramentas e Tecnologias
 
