@@ -2,7 +2,7 @@
 ### Bem-vindo ao meu perfil do GitHub! 👋
 
 - 🎯 Atualmente, estou em busca de um estágio de verão (Summer Job) focado em Machine Learning.
-- 🔭 Estudo Engenharia de Computação no ITA (Instituto Tecnológico de Aeronáutica) e sou Diretor de Dados no CASD (Curso Alberto Santos Dumont).
+- 🔭 Estudo Engenharia de Computação no ITA (Instituto Tecnológico de Aeronáutica).
 - 👨🏽‍💻 Meu objetivo é aprender e me aprofundar em principalmente em Machine Learning, Ciência de Dados e Estatística, e também em Programação (linguagens SQL, Python, C++, R, Matlab) e em Análise Exploratória de Dados.
 - Também escrevo artigos no Medium sobre Ciência de Dados, Estatística e Machine Learning: https://medium.com/@samir.silva12342
 
