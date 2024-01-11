@@ -9,10 +9,12 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/> <img
-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/> <img
-src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50"><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/> <img
+src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="50" height="50"/> <img 
+src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="50" height="50"/> <img 
+src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/> <img
+src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50" height="50"> <img
+src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50">
 
 <div>
 
