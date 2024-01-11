@@ -3,7 +3,7 @@
 
 - 🔭 Estudo Engenharia de Computação no ITA (Instituto Tecnológico de Aeronáutica).
 - 👨🏽‍💻 Meu objetivo é me aprofundar na área de Ciência de Dados.
-- Escrevo artigos no Medium sobre Ciência de Dados, Estatística e Machine Learning: https://medium.com/@samir.silva12342
+- Escrevo artigos no Medium sobre Ciência de Dados, em especial sobre Machine Learning: https://medium.com/@samir.silva12342
 
 ### Ferramentas e Tecnologias
 
