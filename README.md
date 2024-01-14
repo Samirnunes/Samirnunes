@@ -1,11 +1,11 @@
-## Olá, meu nome é Samir!
-### Bem-vindo ao meu perfil do GitHub! 👋
+## Hello, my name is Samir!
+### Welcome to my GitHub profile! 👋
 
-- 🔭 Estudo Engenharia de Computação no ITA (Instituto Tecnológico de Aeronáutica).
-- 👨🏽‍💻 Meu objetivo é me aprofundar na área de Ciência de Dados.
-- Escrevo artigos no Medium sobre Ciência de Dados, em especial sobre Machine Learning: https://medium.com/@samir.silva12342
+- 🔭 I study Computer Engineering at ITA (Instituto Tecnológico de Aeronáutica).
+- 👨🏽‍💻 My goal is to go deeper into the field of Data Science.
+- I write articles on Medium about Data Science, specially about Machine Learning: https://medium.com/@samir.silva12342
 
-### Ferramentas e Tecnologias
+###  Tools and Technologies
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -19,7 +19,7 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" widt
 
 <div>
 
-### Contato
+### Contact
 
 <div>
 <a href = "mailto:samir.silva12342@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
