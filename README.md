@@ -7,9 +7,9 @@
 
 ### My Previous Experiences
 
-- Data Science Intern at Tarken: developed an AI system to predict crops using features extracted from timeseries generated from satellite images.
+- R&D Summer Intern at Galapagos Capital: developed an AI system using ChatGPT's and Azure OCR's API to read balance sheets.
 
-- R&D Summer Intern at Galapagos Capital: developed an AI system using ChatGPT and Azure OCR API to read balance sheets.
+- Data Science Intern at Tarken: developed an AI system to predict crops using features extracted from timeseries generated from satellite images.
 
 ###  Tools and Technologies
 
