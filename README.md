@@ -1,9 +1,9 @@
 ## Hello, my name is Samir!
 ### Welcome to my GitHub profile! 👋
 
-- 🔭 I study Computer Engineering at ITA (Instituto Tecnológico de Aeronáutica).
-- 👨🏽‍💻 My goal is to work in the field of Data Science, specially with Machine Learning.
-- I write articles on Medium: https://medium.com/@samir.silva12342
+- 👨🏽‍💻 I study Computer Engineering at ITA (Instituto Tecnológico de Aeronáutica).
+- 🏁 My goal is to work in the field of Data Science, specially with Machine Learning.
+- 📄 I write articles on Medium: https://medium.com/@samir.silva12342
 
 ###  Tools and Technologies
 
