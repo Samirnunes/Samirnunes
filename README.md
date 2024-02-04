@@ -5,6 +5,12 @@
 - 🏁 My goal is to work in the field of Data Science, specially with Machine Learning.
 - 📄 I write articles on Medium: https://medium.com/@samir.silva12342
 
+### My Previous Experiences
+
+- Data Science Intern at Tarken: developed an AI system to predict crops using features extracted from timeseries generated from satellite images.
+
+- R&D Summer Intern at Galapagos Capital: developed an AI system using ChatGPT and Azure OCR API to read balance sheets.
+
 ###  Tools and Technologies
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
