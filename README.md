@@ -7,7 +7,7 @@
 
 ### My Previous Experiences
 
-- R&D Summer Intern at Galapagos Capital: developed an AI system using ChatGPT's API and Azure OCR's API to read balance sheets and income statements.
+- R&D Summer Intern at Galapagos Capital: developed an AI system using ChatGPT's API and Azure OCR's API to read balance sheets and income statements. Also developed a system to hierarchically clusterize and select the best funds by comparing them with their indexers.
 
 - Data Science Intern at Tarken: developed an AI system to predict crops using features extracted from timeseries generated from satellite images.
 
