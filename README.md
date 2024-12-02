@@ -1,29 +1,19 @@
 ## Hello, my name is Samir!
 ### Welcome to my GitHub profile! 👋
 
-- 👨🏽‍💻 I study Computer Engineering at ITA (Instituto Tecnológico de Aeronáutica).
+- 📘 I study Computer Engineering at ITA (Instituto Tecnológico de Aeronáutica).
 - 🏁 My goal is to work in the Data Science field, specially with Machine Learning.
-- 📄 I write articles on Medium: https://medium.com/@samir.silva12342
-
-### My Previous Experiences
-
-- R&D Summer Intern at Galapagos Capital: developed an AI system using ChatGPT's API and Azure OCR's API to read balance sheets and income statements. Also developed a system to hierarchically clusterize and select the best funds by comparing them with their indexers.
-
-- Data Science Intern at Tarken: developed an AI system to predict crops using features extracted from timeseries generated from satellite images.
+- 💻 Currently working in a Stealth Startup with Data Science, MLOps and AI Engineering.
 
 ###  Tools and Technologies
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/> <img
-src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="50" height="50"/> <img 
-src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="50" height="50"/> <img 
-src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50"/> <img 
-src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/> <img
-src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50" height="50"> <img
-src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50">
-
-<div>
+- Python (software engineering best practices for data science products)
+- Poetry (project and dependencies management)
+- AWS (working with ECR, ECS and S3) 
+- Google Cloud (working with BigQuery)
+- Terraform (IaC - Infrastructure as Code)
+- DevOps (GitLab CI/CD, packaging and apps deployment)
+- MLOps (MLFlow, Metaflow)
 
 ### Contact
 
