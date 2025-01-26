@@ -14,7 +14,7 @@
 - Terraform (IaC - Infrastructure as Code)
 - DevOps (GitLab CI/CD, packaging and apps deployment)
 - MLOps (MLFlow, Prefect, internal frameworks)
-- AI Agents for production with Langchain and Langgraph
+- AI Agents in production with Langchain and Langgraph
 
 ### Contact
 
