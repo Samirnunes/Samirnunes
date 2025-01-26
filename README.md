@@ -13,7 +13,8 @@
 - Google Cloud (working with BigQuery)
 - Terraform (IaC - Infrastructure as Code)
 - DevOps (GitLab CI/CD, packaging and apps deployment)
-- MLOps (MLFlow, Prefect)
+- MLOps (MLFlow, Prefect, internal frameworks)
+- AI Agents for production with Langchain and Langgraph
 
 ### Contact
 
