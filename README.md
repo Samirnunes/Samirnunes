@@ -9,11 +9,11 @@
 
 - Python (software engineering best practices for data science products)
 - Poetry (project and dependencies management)
-- AWS (working with ECR, ECS and S3) 
+- AWS (working with ECR, ECS, S3 and Systems Manager) 
 - Google Cloud (working with BigQuery)
 - Terraform (IaC - Infrastructure as Code)
 - DevOps (GitLab CI/CD, packaging and apps deployment)
-- MLOps (MLFlow, Metaflow)
+- MLOps (MLFlow, Prefect)
 
 ### Contact
 
