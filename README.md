@@ -2,8 +2,7 @@
 ### Welcome to my GitHub profile! 👋
 
 - 📘 I study Computer Engineering at ITA (Instituto Tecnológico de Aeronáutica).
-- 🏁 My goal is to work in the Data Science field, specially with Machine Learning.
-- 💻 Currently working in a Stealth Startup with Data Science, MLOps and AI Engineering.
+- 💻 Currently working at BTG Pactual as a Data Scientist.
 
 ###  Tools and Technologies
 
