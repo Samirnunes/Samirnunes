@@ -2,7 +2,7 @@
 ### Welcome to my GitHub profile! 👋
 
 - 📘 I study Computer Engineering at ITA (Instituto Tecnológico de Aeronáutica).
-- 💻 Currently working at BTG Pactual as a Data Scientist.
+- 💻 Currently working at BTG Pactual as an AI Engineer.
 
 ###  Tools and Technologies
 
