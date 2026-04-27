@@ -1,19 +1,17 @@
 ## Hello, my name is Samir!
 ### Welcome to my GitHub profile! 👋
 
-- 📘 I study Computer Engineering at ITA (Instituto Tecnológico de Aeronáutica).
-- 💻 Currently working at BTG Pactual as an AI Engineer.
+- 📘 I have graduated as Computer Engineer at ITA (Instituto Tecnológico de Aeronáutica).
+- 💻 Currently working at Insider Store as ML Engineer
 
 ###  Tools and Technologies
 
 - Python (software engineering best practices for data science products)
 - Poetry (project and dependencies management)
-- AWS (working with ECR, ECS, S3 and Systems Manager) 
-- Google Cloud (working with BigQuery)
+- Infrastructure in Google Cloud
 - Terraform (IaC - Infrastructure as Code)
 - DevOps (GitLab CI/CD, packaging and apps deployment)
-- MLOps (MLFlow, Prefect, internal frameworks)
-- AI Assistants with Langchain and Langgraph
+- MLOps (MLflow, observability, monitoring)
 - Machine Learning algorithms
 
 ### Contact
